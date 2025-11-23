@@ -77,10 +77,21 @@ Start the development server
 
 
 Open the app
+
 ->http://localhost:3000
 
-## Live Link
- - Access the live version here: [Vendor-Management-UI](https://vendor-management-ui-five.vercel.app/)
+## Screenshot
+
+![Screenshot_23-11-2025_18433_localhost](https://github.com/user-attachments/assets/aa79887e-e1b6-4bbf-9ffb-3ac85db498a6)
+
+ ![Screenshot_23-11-2025_18416_localhost](https://github.com/user-attachments/assets/ca84011e-b0e7-4338-a4fc-6f4e967f574c)
+ 
+![Screenshot_23-11-2025_18353_localhost](https://github.com/user-attachments/assets/30ff4c60-a708-456c-9b91-2047682b692c)
+
+![Screenshot_23-11-2025_1839_localhost](https://github.com/user-attachments/assets/f0efae58-8852-4be9-b87c-d42b43a2f6de)
+
+ 
+
 ## Video Demonstration
 [![Watch the video](https://img.youtube.com/vi/aBy5BN3VppQ/maxresdefault.jpg)](https://youtu.be/aBy5BN3VppQ)
 
