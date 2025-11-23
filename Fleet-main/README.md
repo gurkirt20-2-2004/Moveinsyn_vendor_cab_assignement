@@ -69,18 +69,15 @@ lib/ → Utility functions for formatting and calculations
 🚀 How to Run
 
 Install dependencies
-
-npm install
+->npm install
 
 
 Start the development server
-
-npm run dev
+->npm run dev
 
 
 Open the app
-
-http://localhost:3000
+->http://localhost:3000
 
 ## Live Link
  - Access the live version here: [Vendor-Management-UI](https://vendor-management-ui-five.vercel.app/)
