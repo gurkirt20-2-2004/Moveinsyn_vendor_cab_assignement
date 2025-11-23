@@ -90,8 +90,12 @@ Open the app
 
 ![Screenshot_23-11-2025_1839_localhost](https://github.com/user-attachments/assets/f0efae58-8852-4be9-b87c-d42b43a2f6de)
 
+
+
  
 
 ## Video Demonstration
+
+
 [![Watch the video](https://img.youtube.com/vi/aBy5BN3VppQ/maxresdefault.jpg)](https://youtu.be/aBy5BN3VppQ)
 
