@@ -94,8 +94,4 @@ Open the app
 
  
 
-## Video Demonstration
-
-
-[![Watch the video](https://img.youtube.com/vi/aBy5BN3VppQ/maxresdefault.jpg)](https://youtu.be/aBy5BN3VppQ)
 
