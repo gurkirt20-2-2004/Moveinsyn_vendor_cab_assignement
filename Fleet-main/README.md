@@ -42,19 +42,7 @@ Vendor hierarchy tree
 Dashboard summaries
 These pages use mock data but represent how a real dashboard would function.
 
-## Technologies Used
 
-Next.js – To structure the application and make it fast
-
-React – For building UI components
-
-Tailwind CSS – For simple and clean styles
-
-ShadCN UI – For ready-made UI components
-
-React Flow – For showing the vendor hierarchy
-
-Mock data – Used for testing and demo view
 
 ## Project Structure (Simple Overview)
 
