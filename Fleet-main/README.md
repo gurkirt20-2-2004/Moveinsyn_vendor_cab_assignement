@@ -1,16 +1,16 @@
-->Vendor Cab and Driver Onboarding & Vendor Hierarchy Management
+## Vendor Cab and Driver Onboarding & Vendor Hierarchy Management
 
 This project is a dashboard for managing vendors, their drivers, cabs, and the overall vendor hierarchy.
 The idea is to give a super vendor full control over multiple sub-vendors, and to make onboarding and monitoring easy.
 
-It mainly focuses on:
+## It mainly focuses on:
 
 Onboarding vendors, drivers, and vehicles
 Maintaining multi-level hierarchy
 Delegation and control for super vendors
 Simple UI for viewing and managing data
 
-⭐ What This Project Does
+##  What This Project Does
 
 1. Vendor Hierarchy Management
 The system supports multiple levels of vendors.
