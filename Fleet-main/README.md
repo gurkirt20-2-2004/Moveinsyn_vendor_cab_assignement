@@ -42,7 +42,7 @@ Vendor hierarchy tree
 Dashboard summaries
 These pages use mock data but represent how a real dashboard would function.
 
-🛠️ Technologies Used
+## Technologies Used
 
 Next.js – To structure the application and make it fast
 
@@ -56,7 +56,7 @@ React Flow – For showing the vendor hierarchy
 
 Mock data – Used for testing and demo view
 
-🧩 Project Structure (Simple Overview)
+## Project Structure (Simple Overview)
 
 app/ → All pages (dashboard, hierarchy, delegation, etc.)
 
@@ -66,7 +66,7 @@ data/ → Mock JSON data for vendors, drivers, and hierarchy
 
 lib/ → Utility functions for formatting and calculations
 
-🚀 How to Run
+## How to Run
 
 Install dependencies
 ->npm install
